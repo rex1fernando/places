@@ -1,0 +1,22 @@
+{
+  "name": "places_proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "webpack": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "snabbdom": "0.7.1"
+  },
+  "devDependencies": {
+    "babel": "^6.0.0",
+    "webpack": "^4.0.0",
+    "webpack-cli": "^2.0.0",
+    "babel-loader": "^7.0.0"
+
+  }
+}
